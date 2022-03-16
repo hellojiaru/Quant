@@ -64,3 +64,7 @@ example_observation = []
 
 serialized_example = serialize_example(False, 4, b'goat', 0.9876)
 print(serialized_example)
+
+
+
+
